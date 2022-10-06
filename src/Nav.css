@@ -1,0 +1,28 @@
+nav {
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    width:100%;
+    background-color: navy;
+}
+
+
+p {
+    color:white
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    padding-right:30px;
+    display:inline-block;
+}
+
+button {
+    margin-right:20px;
+    padding:9px 16px;
+    text-decoration: underline;
+    color:blue
+}
